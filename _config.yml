@@ -1,7 +1,7 @@
 name: opt.c
 favicon: null
-layout_spectrum: 0.37981929653324187
-typography_spectrum: 0.331765768583864
+layout_spectrum: 0.08842
+typography_spectrum: 0.39546
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#000000'
+    - '#515d68'
+    - '#7fa6d0'
+    - '#fff0dc'
+    - '#d7ccba'
   brandStrength: 0.2941130893304944
   lightness: 0.14343427424319088
   saturation: 0.026218821527436376

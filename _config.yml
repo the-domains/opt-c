@@ -1,0 +1,28 @@
+name: opt.c
+favicon: null
+layout_spectrum: 0.37981929653324187
+typography_spectrum: 0.331765768583864
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2941130893304944
+  lightness: 0.14343427424319088
+  saturation: 0.026218821527436376
+  rhythmicContrast: 0.05938607733696699
+purpose: []
